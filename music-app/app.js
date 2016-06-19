@@ -1,6 +1,6 @@
 SC.initialize({
-    client_id: '9c67ba2d7fff6ccf927f2054900ee923',
-    redirect_uri: '51a5e12e2d172d8a48a9bdfd6bff5c60'
+    client_id: 'Not for you',
+    redirect_uri: 'Also not for you'
 });
 
 $(document).ready(function() { 
